@@ -3,7 +3,7 @@
 <!--  -->
 
 <br>
-Full website [link](https://sites.google.com/site/makkhay/home)
+- Full website [link](https://sites.google.com/site/makkhay/home)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
